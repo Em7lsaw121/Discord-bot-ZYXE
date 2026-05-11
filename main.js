@@ -218,7 +218,7 @@ client.on('interactionCreate', async (interaction) => {
 
     const applicationTemplate = `📝 **ZYXE CLAN APPLICATION**
 
-User Name: ${user.tag}
+User Name:
 Rank:
 Gamepasses:
 Playtime per Day:
